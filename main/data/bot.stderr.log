@@ -1,0 +1,4 @@
+2026-11-07 16:15:37,445 INFO booking_bot: Бот запускается; выполняю подключение к Telegram
+2026-11-07 16:15:40,165 INFO booking_bot: Подключение к Telegram установлено
+2026-11-07 16:15:40,165 INFO aiogram.dispatcher: Start polling
+2026-11-07 16:15:40,365 INFO aiogram.dispatcher: Run polling for bot @myTimeMap_bot id=9251833776 - 'Календарик'

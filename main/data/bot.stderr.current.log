@@ -1,0 +1,40 @@
+2026-11-07 16:17:35,001 INFO booking_bot: Бот запускается; выполняю подключение к Telegram
+2026-11-07 16:17:38,556 INFO booking_bot: Подключение к Telegram установлено
+2026-11-07 16:17:38,557 INFO aiogram.dispatcher: Start polling
+2026-11-07 16:17:38,671 INFO aiogram.dispatcher: Run polling for bot @myTimeMap_bot id=9251833776 - 'Календарик'
+2026-11-07 16:21:45,419 INFO booking_bot: Получен /start от Telegram user_id=810974295
+2026-11-07 16:21:45,805 INFO aiogram.event: Update id=920672082 is handled. Duration 1077 ms by bot id=9251833776
+2026-11-07 16:22:07,127 INFO aiogram.event: Update id=920672083 is handled. Duration 406 ms by bot id=9251833776
+2026-11-07 16:22:10,334 INFO aiogram.event: Update id=920672084 is handled. Duration 359 ms by bot id=9251833776
+2026-11-07 16:24:55,091 INFO aiogram.event: Update id=920672085 is handled. Duration 875 ms by bot id=9251833776
+2026-11-07 16:25:00,468 INFO aiogram.event: Update id=920672086 is handled. Duration 452 ms by bot id=9251833776
+2026-11-07 16:25:01,194 INFO aiogram.event: Update id=920672087 is handled. Duration 359 ms by bot id=9251833776
+2026-11-07 16:25:16,525 INFO aiogram.event: Update id=920672088 is handled. Duration 922 ms by bot id=9251833776
+2026-11-07 16:25:21,729 INFO aiogram.event: Update id=920672089 is handled. Duration 327 ms by bot id=9251833776
+2026-11-07 16:25:22,970 INFO aiogram.event: Update id=920672090 is handled. Duration 390 ms by bot id=9251833776
+2026-11-07 16:25:27,348 INFO aiogram.event: Update id=920672091 is handled. Duration 343 ms by bot id=9251833776
+2026-11-07 16:25:33,054 INFO aiogram.event: Update id=920672092 is handled. Duration 1608 ms by bot id=9251833776
+2026-11-07 16:25:34,684 INFO aiogram.event: Update id=920672093 is handled. Duration 969 ms by bot id=9251833776
+2026-11-07 16:25:36,274 INFO aiogram.event: Update id=920672094 is handled. Duration 390 ms by bot id=9251833776
+2026-11-07 16:25:38,902 INFO aiogram.event: Update id=920672095 is handled. Duration 328 ms by bot id=9251833776
+2026-11-07 16:25:40,791 INFO aiogram.event: Update id=920672096 is handled. Duration 406 ms by bot id=9251833776
+2026-11-07 16:25:42,118 INFO aiogram.event: Update id=920672097 is handled. Duration 313 ms by bot id=9251833776
+2026-11-07 16:25:56,227 INFO aiogram.event: Update id=920672098 is handled. Duration 390 ms by bot id=9251833776
+2026-11-07 16:25:58,914 INFO aiogram.event: Update id=920672099 is handled. Duration 313 ms by bot id=9251833776
+2026-11-07 16:26:05,739 INFO aiogram.event: Update id=920672100 is handled. Duration 1063 ms by bot id=9251833776
+2026-11-07 16:26:11,640 INFO aiogram.event: Update id=920672101 is handled. Duration 312 ms by bot id=9251833776
+2026-11-07 16:26:25,176 INFO aiogram.event: Update id=920672102 is handled. Duration 389 ms by bot id=9251833776
+2026-11-07 16:26:34,855 INFO aiogram.event: Update id=920672103 is handled. Duration 938 ms by bot id=9251833776
+2026-11-07 16:26:41,154 INFO aiogram.event: Update id=920672104 is handled. Duration 375 ms by bot id=9251833776
+2026-11-07 16:26:43,971 INFO aiogram.event: Update id=920672105 is handled. Duration 780 ms by bot id=9251833776
+2026-11-07 16:26:46,276 INFO aiogram.event: Update id=920672106 is handled. Duration 452 ms by bot id=9251833776
+2026-11-07 16:26:49,076 INFO aiogram.event: Update id=920672107 is handled. Duration 1077 ms by bot id=9251833776
+2026-11-07 16:27:01,847 INFO aiogram.event: Update id=920672108 is handled. Duration 593 ms by bot id=9251833776
+2026-11-07 16:29:21,999 INFO aiogram.event: Update id=920672109 is handled. Duration 984 ms by bot id=9251833776
+2026-11-07 16:29:24,570 INFO aiogram.event: Update id=920672110 is handled. Duration 1062 ms by bot id=9251833776
+2026-11-07 16:32:46,962 INFO aiogram.event: Update id=920672111 is handled. Duration 343 ms by bot id=9251833776
+2026-11-07 16:33:04,478 INFO aiogram.event: Update id=920672112 is handled. Duration 358 ms by bot id=9251833776
+2026-11-07 16:53:28,529 INFO booking_bot: Получен /start от Telegram user_id=810974295
+2026-11-07 16:53:30,767 INFO booking_bot: Получен /start от Telegram user_id=810974295
+2026-11-07 16:53:31,178 INFO aiogram.event: Update id=920672114 is handled. Duration 1625 ms by bot id=9251833776
+2026-11-07 16:53:46,050 INFO aiogram.event: Update id=920672113 is handled. Duration 23905 ms by bot id=9251833776
